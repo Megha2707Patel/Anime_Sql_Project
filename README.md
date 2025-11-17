@@ -92,3 +92,5 @@ This project demonstrates not just the construction of a normalized database sch
 ## 📜 License
 
 This project is for academic and learning purposes only.
+
+Created By Megha Patel
